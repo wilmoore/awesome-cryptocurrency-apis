@@ -30,5 +30,9 @@ A curated list of awesome cryptocurrency APIs.
 ## n.exchange
 - [n.exchange API](https://nexchange2.docs.apiary.io)
 
+## Sharpe
+> Free crypto market data endpoints for funding rates, futures, options, arbitrage, narratives, and news.
+- [Sharpe Free API](https://www.sharpe.ai/docs/free-api)
+
 ## Zloadr
 - [Zloadr API](https://www.zloadr.com/zapi/doc/)
