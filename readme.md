@@ -27,6 +27,10 @@ A curated list of awesome cryptocurrency APIs.
 > API that powers the https://messari.io/ web app.
 - [Messari API](https://messari.io/api/docs)
 
+## AgentServices
+> x402-paid crypto/market data API platform with 54 services, 97 endpoints, and 37 MCP tools for AI agents
+- [AgentServices API](https://agentservices.to)
+
 ## n.exchange
 - [n.exchange API](https://nexchange2.docs.apiary.io)
 
