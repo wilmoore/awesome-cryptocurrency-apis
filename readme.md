@@ -32,3 +32,9 @@ A curated list of awesome cryptocurrency APIs.
 
 ## Zloadr
 - [Zloadr API](https://www.zloadr.com/zapi/doc/)
+
+## PublicAML
+> Free crypto AML / KYT address screening (risk score, sanctions, entity labels). No API key.
+- [PublicAML Enrich API](https://intelapi.publicaml.org/)
+- [Docs / sandbox](https://intelapi.publicaml.org/)
+- [GitHub JS helper](https://github.com/saloprj/publicaml-enrich)
