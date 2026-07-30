@@ -35,6 +35,6 @@ A curated list of awesome cryptocurrency APIs.
 
 ## PublicAML
 > Free crypto AML / KYT address screening (risk score, sanctions, entity labels). No API key.
-- [PublicAML Enrich API](https://intelapi.publicaml.org/)
-- [Docs / sandbox](https://intelapi.publicaml.org/)
+- [PublicAML Enrich API](https://intelapi.publicaml.org/v1/enrich)
+- [Website / sandbox](https://publicaml.org/)
 - [GitHub JS helper](https://github.com/saloprj/publicaml-enrich)
