@@ -27,6 +27,11 @@ A curated list of awesome cryptocurrency APIs.
 > API that powers the https://messari.io/ web app.
 - [Messari API](https://messari.io/api/docs)
 
+
+## bilbop
+> Solana x402 pay-per-call APIs for agents (USDC micropayments, no API key)
+- [bilbop API](https://api.bilbop.org) — token market brief, mint info, summarize, TTS, brand feedback. Discovery: `/.well-known/x402`.
+
 ## n.exchange
 - [n.exchange API](https://nexchange2.docs.apiary.io)
 
